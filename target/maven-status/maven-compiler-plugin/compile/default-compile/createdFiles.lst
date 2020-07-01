@@ -1,0 +1,16 @@
+dev\pontinome\yeetcore\Commands\Chat\Masssay.class
+dev\pontinome\yeetcore\Commands\InventoryCommands\InventoryLoad.class
+dev\pontinome\yeetcore\Events\onEntityDamage.class
+dev\pontinome\yeetcore\Commands\RequestCommands\RequestTeleport.class
+dev\pontinome\yeetcore\Commands\Chat\Mutechat.class
+dev\pontinome\yeetcore\Datahandling\getValue.class
+dev\pontinome\yeetcore\Commands\InventoryCommands\InventorySave.class
+dev\pontinome\yeetcore\Events\onDeathEvent.class
+dev\pontinome\yeetcore\Commands\Chat\FriendChat.class
+dev\pontinome\yeetcore\Events\onPlayerDisconnect.class
+dev\pontinome\yeetcore\Commands\AdminCommands\Immortal.class
+dev\pontinome\yeetcore\BukkitSerialization.class
+dev\pontinome\yeetcore\Events\onChatEvent.class
+dev\pontinome\yeetcore\Main.class
+dev\pontinome\yeetcore\Datahandling\UpdateValue.class
+dev\pontinome\yeetcore\Events\onPlayerJoin.class

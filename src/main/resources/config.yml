@@ -1,0 +1,8 @@
+server-name: "1.16 World" # server name
+messages-prefix: "Pontinome Core || " # prefix before messages
+data-storage-type: "YAML" #YAML, GSON, MySQL or MONGO
+mysql-host:
+mysql-port:
+mysql-username:
+mysql-password:
+mysql-table:

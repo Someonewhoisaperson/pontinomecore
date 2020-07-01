@@ -1,0 +1,24 @@
+name: YeetCore
+version: ${project.version}
+main: dev.pontinome.yeetcore.Main
+api-version: 1.16
+authors: [PontinomeDevelopment]
+description: THE BEST CORE EVER!! YEET YETT
+website: pontinome.dev
+commands:
+  inventorysave:
+    aliases: invsave, saveinv
+    description: saves your inventory
+  inventoryload:
+    aliases: invload, loadinv
+    description: loads your inventory from save
+  immortal:
+    description: Stops death
+    permission: pontinome.immortal
+  friendschat:
+    aliases: fc
+    permission: friendschat.send
+  RequestTeleport:
+    aliases: rqtp
+    permission: pontinome.rqtp
+    no-permssion-message: y r u gae
